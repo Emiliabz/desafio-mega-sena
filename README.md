@@ -1,38 +1,27 @@
-﻿# Desafio: Mega-Sena
+﻿# Desafio: Mega Sena
 
-Simulador da Mega-Sena com geraÃ§Ã£o de nÃºmeros sorteados.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-Projeto educacional que simula o jogo da Mega-Sena, permitindo gerar apostas aleatÃ³rias, verificar acertos e calcular prÃªmios.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
-- **Random** - GeraÃ§Ã£o de nÃºmeros aleatÃ³rios
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o simulador
-python mega_sena.py
+python desafio-mega-sena.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- Gerar nÃºmeros aleatÃ³rios (1-60)
-- Sortear 6 nÃºmeros
-- Fazer apostas
-- Verificar acertos
-- Calcular prÃªmios baseado em acertos
-
-## ðŸ’¡ Exemplo
-
-`python
-jogo = MegaSena()
-numeros_sorteados = jogo.sortear()
-minha_aposta = [5, 12, 23, 34, 45, 56]
-acertos = jogo.verificar_acertos(minha_aposta)
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
